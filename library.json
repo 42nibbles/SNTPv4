@@ -1,0 +1,21 @@
+{
+    "name": "SNTPv4",
+    "version": "0.9.0",
+    "description": "Synchronize system clocks via SNTPv4 in the Internet.",
+    "keywords": [
+        "Arduino library",
+        "SNTP",
+        "SNTPv4",
+        "RFC 4330"
+    ],
+    "authors": {
+        "name": "Michael Hoffmann"
+    },
+    "framework": [
+        "Arduino"
+    ],
+    "platforms": [
+        "espressif8266",
+        "esp32"
+    ]
+}
