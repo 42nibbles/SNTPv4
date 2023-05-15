@@ -8,14 +8,15 @@
         "SNTPv4",
         "RFC 4330"
     ],
-    "authors": {
-        "name": "Michael Hoffmann"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/42nibbles/SNTPv4.git"
     },
     "framework": [
         "Arduino"
     ],
     "platforms": [
         "espressif8266",
-        "esp32"
+        "espressif32"
     ]
 }
